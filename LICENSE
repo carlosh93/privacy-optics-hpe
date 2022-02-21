@@ -1,0 +1,42 @@
+STANFORD ACADEMIC SOFTWARE LICENSE FOR 
+Stanford Docket S21-221: “Learning Privacy-preserving Optics for Human Pose Estimation”
+
+Please address any communications to: jniebles@cs.stanford.edu and otl@stanford.edu 
+
+By accessing the software in this folder, you are agreeing to the license terms listed below.
+
+1. THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY (“STANFORD”) and the UNIVERSIDAD INDUSTRIAL DE SANTANDER (“UIS”) 
+have an assignment to “Learning Privacy-preserving Optics for Human Pose Estimation” (“Software”), described in Stanford Docket S21-221, 
+which was developed by Carlos Alberto Hinojosa Montero (Universidad Industrial de Santander, Colombia), Professor Henry Arguello Fuentes 
+(Escuela de Ingeniería de Sistemas e Informática, Universidad Industrial de Santander, Colombia), and Professor Juan Carlos Niebles 
+(Department of Computer Science, Stanford University).
+2. STANFORD and UIS have agreed that STANFORD will provide the Software under this Academic Software License.
+3. By accessing, downloading, accepting, receiving, or using Software, including any accompanying information, materials or manuals 
+you (“RECIPIENT”) are agreeing to be bound by the terms of this License.  If you do not agree to the terms of this License, do not download 
+any files from this directory.
+4. STANFORD grants to RECIPIENT a royalty-free, nonexclusive, and nontransferable license to use the Software furnished hereunder, upon the 
+terms and conditions set out below. 
+5. RECIPIENT acknowledges that the Software is a research tool still in the development stage and that it is being supplied as is, without 
+any accompanying services, support or improvements from STANFORD.  STANFORD makes no representations and extends no warranties of any kind, 
+either express or implied other than set out in this License.
+6. RECIPIENT agrees to use the Software solely for internal academic, non-commercial purposes and shall not distribute or transfer the 
+Software or any of its derivatives or enhancements from RECIPIENT to another location or to any other person without prior written permission 
+from STANFORD.
+7. RECIPIENT agrees not to reverse engineer, reverse assemble, reverse compile decompile, disassemble, or otherwise attempt to re-create the 
+source code for the Software. RECIPIENT acknowledges that any programs created based on the Software will be considered a derivative of Software 
+and owned by STANFORD and UIS. 
+8. RECIPIENT may make modifications to the Software and integrate Software into RECIPIENT’s own software. All derivative works and enhancements 
+are owned by STANFORD and UIS.
+9. RECIPIENT may not further distribute Software or its derivatives or enhancements without express written permission of STANFORD. If permission 
+to transfer the Software is given, RECIPIENT warrants that RECIPIENT will not remove or export any part of the Software from the United States 
+except in full compliance with all United States export regulations and other applicable laws.
+10. RECIPIENT will use the Software in compliance with all applicable laws, policies and regulations including, but not limited to, any approvals, 
+informed consent and patient confidentiality principles.
+11. RECIPIENT will indemnify, hold harmless, and defend STANFORD and UIS against any claim of any kind arising out of or related to the exercise 
+of any rights granted under this License or the breach of this License by RECIPIENT.
+12. Title and copyright to the Software and any derivatives and any associated documentation shall at all times remain with STANFORD and UIS, and 
+RECIPIENT agrees to preserve same.
+13. If RECIPIENT plans to publish any peer reviewed papers, abstracts, or similar publications, RECIPIENT agrees to acknowledge Software and its 
+creators, Carlos Alberto Hinojosa Montero, Professor Henry Arguello Fuentes, and Professor Juan Carlos Niebles, in a manner consistent with 
+academic practice. 
+14. If RECIPIENT decides to terminate this License, RECIPIENT shall destroy or return immediately all Software and all derivative works.
