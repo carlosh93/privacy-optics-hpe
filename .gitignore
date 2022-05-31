@@ -1,3 +1,7 @@
+# needs review
+hyperpose/Model/openpose/model/private_model.py
+hyperpose/Model/optics
+
 .idea
 # Byte-compiled / optimized / DLL files
 __pycache__/

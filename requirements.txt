@@ -1,0 +1,13 @@
+tensorflow==2.3.1
+tensorlayer==2.2.3
+cython
+numpy
+easydict
+poppy
+globals
+opencv-python
+matplotlib
+pycocotools  # must be installed after cython and numpy are installed
+# deepface
+# dlib
+# python-helper
